@@ -1,1 +1,1 @@
-# socket_programming_in_c
+# Client-Server programming using both TCP and UDP sockets
