@@ -23,3 +23,11 @@ multiple clients and serves all of them concurrently.
 **Client:** ```<executable code> <Server IP Address> <Server Port number>```
 
 **Server:** ```<executable code> <Server Port number>```
+
+<a href="https://asciinema.org/a/4jk5uxj89k2mqyzmm150vahib?autoplay=1" target="_blank" title="Client">
+  ![Client](https://asciinema.org/a/4jk5uxj89k2mqyzmm150vahib.png)
+</a>
+
+<a href="https://asciinema.org/a/944vrisup31aa8xu2zm9ovxeu?autoplay=1" target="_blank" title="Server">
+  ![Server](https://asciinema.org/a/944vrisup31aa8xu2zm9ovxeu.png)
+</a>
