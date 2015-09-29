@@ -24,10 +24,6 @@ multiple clients and serves all of them concurrently.
 
 **Server:** ```<executable code> <Server Port number>```
 
-<a href="https://asciinema.org/a/4jk5uxj89k2mqyzmm150vahib?autoplay=1" target="_blank" title="Client">
-  ![Client](https://asciinema.org/a/4jk5uxj89k2mqyzmm150vahib.png)
-</a>
+![Client](https://github.com/swapagarwal/socket_programming_in_c/blob/master/client.gif)
 
-<a href="https://asciinema.org/a/944vrisup31aa8xu2zm9ovxeu?autoplay=1" target="_blank" title="Server">
-  ![Server](https://asciinema.org/a/944vrisup31aa8xu2zm9ovxeu.png)
-</a>
+![Server](https://github.com/swapagarwal/socket_programming_in_c/blob/master/server.gif)
